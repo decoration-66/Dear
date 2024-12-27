@@ -332,14 +332,14 @@ right: auto;
 }
 
 .rsvp button{
-	background-color: #808080;
-	color: #000000;
+	background-color: #000000;
+	color: #808080;
 	border: 1px solid var(--shadow);
 }
 
 .rsvp button:hover{
-	background-color: #000000;
-	color: #808080;
+	background-color: #808080;
+	color: #000000;
 	border: white;
 
 }
