@@ -370,8 +370,8 @@ footer{
 	padding: 0.5rem;
 	background-color: #D3D3D3;
 	color: #000000;
-	margin-top: 20px;
-	margin-bottom : 20px
+	margin-top: 70px;
+	padding-bottom : 20px;
 }
 footer a{
 color: var(--bg);
