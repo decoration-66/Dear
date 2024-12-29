@@ -387,6 +387,10 @@ footer li{
 	display: inline;
 	margin: 0.5rem;
 }
+footer .ig {
+	font-size: 5rem;
+	color: #d6249f;
+}
 
 
 	.audio-icon-wrapper {
