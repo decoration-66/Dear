@@ -545,7 +545,7 @@ const namaContainer = document.getElementById('nama-penerima');
 
 // Set nama jika ada di URL, atau gunakan teks default
 if (nama) {
-  namaContainer.innerText = nama;
+  namaContainer.innerText = nama.join();
 } else {
   namaContainer.innerText = "Tamu Undangan";
 }
